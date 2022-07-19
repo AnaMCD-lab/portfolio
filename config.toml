@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Ana's portfolio"
+theme = "basic"
+[params]
+author = "Anita Corpus"
+description = "My portfolio site"
