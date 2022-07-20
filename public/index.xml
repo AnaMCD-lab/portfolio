@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana&#39;s portfolio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Ana&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Sep 2021 12:31:37 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiperrealidad</title>
+      <link>http://example.org/presentations/hiperrealidad/</link>
+      <pubDate>Wed, 29 Sep 2021 12:31:37 -0500</pubDate>
+      
+      <guid>http://example.org/presentations/hiperrealidad/</guid>
+      <description>Las fortalezas de la soledad Las dos muchachas, muy bellas, están desnudas. Agachadas una frente a otra, aparecen en un cilindro. Uno quisiera dar vueltas para poder verlas. Esta realización es una de las tantas expuestas en Nueva York por la escuelas de Holografía.
+La holografía, última maravilla de la técnica del rayo láser, inventada por Dennis Gabor en los años cincuenta, realiza un representación fotográfica en color más que tridimensional.</description>
+    </item>
+    
+    <item>
+      <title>Bread Recipe</title>
+      <link>http://example.org/presentations/bread-recipe/</link>
+      <pubDate>Wed, 29 Sep 2021 12:28:32 -0500</pubDate>
+      
+      <guid>http://example.org/presentations/bread-recipe/</guid>
+      <description>For two loaves, you will need:
+100 g Mature, active levain 400 g White Flour 100 g Whole Wheat Flour 1 3/4 cups Water Procedure:
+Mix all the ingredients with your hands. Let it rest at room temperature.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Wed, 22 Sep 2021 20:01:09 -0500</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://example.org/resume/</link>
+      <pubDate>Wed, 22 Sep 2021 19:40:36 -0500</pubDate>
+      
+      <guid>http://example.org/resume/</guid>
+      <description>Expertise Technical documentation for the general public and for other technicians. Mentoring other technicians about topics covered in the documentation. Different OS technologies (Red Hat Linux, Solaris, Microsoft, Nortel Linux based OS), languages (C, C#, Visual Basic, Python, SQL). I learn any new technology as needed. Network fundamentals. Obtained the certifications on Microsoft SQL Server Administration and Microsoft Server Solution (now expired). Currently studying for the AWS Cloud Practitioner certification. Experience working with several teams from different locations.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 22 Sep 2021 18:56:36 -0500</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>This is my About page.
+new addition on Wed 20 July 2022.</description>
+    </item>
+    
+    <item>
+      <title>Awesomeco</title>
+      <link>http://example.org/projects/awesomeco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/awesomeco/</guid>
+      <description>
+Description&amp;hellip;
+Hugo themes Ananke Restaurant-Hugo Twenty Twenty Hugo </description>
+    </item>
+    
+    <item>
+      <title>Jabberwocky</title>
+      <link>http://example.org/projects/jabberwocky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/jabberwocky/</guid>
+      <description>Joe asks: Do I have to stop and start the server every time I want to add a new file? No, you don&amp;rsquo;t. Hugo is usually pretty good at noticing new files. That said, in this book I&amp;rsquo;m going to prompt you to do so at various times because this ensures you&amp;rsquo;ll see exactly what you should. It also avoids you having to juggle multiple terminal windows or manage background processes.</description>
+    </item>
+    
+  </channel>
+</rss>
