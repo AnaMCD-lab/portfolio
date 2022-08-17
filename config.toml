@@ -1,4 +1,4 @@
-baseURL = 'https://anamcd-lab.github.io/portfolio/public'
+baseURL = 'https://anamcd-lab.github.io/portfolio'
 languageCode = 'en-us'
 title = "Ana's portfolio"
 theme = "basic"
