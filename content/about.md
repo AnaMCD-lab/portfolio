@@ -5,5 +5,3 @@ draft: false
 ---
 
 This is my About page.
-
-HELLO TECH WRITERS!

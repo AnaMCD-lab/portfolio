@@ -8,11 +8,23 @@
 
 <section class="projects">
     {{ range .Pages }}
-    <section class="project">
-    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    </section>
+      <section class="project">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>{{ .Summary }}</p>
+    
+      </section>
 
-{{ end }}
+    {{ end }}
 </section>
+
+<section class="GitHub projects">
+    <section class="project">
+        {{ with .Site.GetPage "/opensource.md" }}
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Summary }}</p>
+        {{ end }}  
+    </section>
+</section>
+  
 
 {{ end }}

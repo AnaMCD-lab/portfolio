@@ -1,0 +1,12 @@
+{ "accounts" :
+  [ 
+    {
+        "name": "Twitter",
+        "url": "https://twitter.com/Reuters"
+    },
+    {
+         "name": "LinkedIn",
+         "url": "https://linkedin.com"
+    }
+  ]
+}

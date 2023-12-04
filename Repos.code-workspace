@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Documents/Suite and Corridor/User guides"
+		},
+		{
+			"path": "../../../Documents/PlatoBI/PlatoBI documentation"
+		}
+	],
+	"settings": {
+		"yaml.schemas": {
+			"file:///Users/amcor/.vscode/extensions/atlassian.atlascode-3.0.4/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+			"openapi:v3": "file:///Users/amcor/Repos/petstore-swagger/petstore-example.yml"
+		}
+	}
+}

@@ -5,3 +5,5 @@ theme = "basic"
 [params]
 author = "Anita Corpus"
 description = "My portfolio site"
+gh_url = "https://api.github.com/users"
+gh_user = "AnaMCD-lab"
